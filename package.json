@@ -1,0 +1,22 @@
+{
+  "name": "understanding_typescript",
+  "version": "1.0.0",
+  "description": "* ESLint * Material Icon Theme * Path Intellisense - Visual Studio Code plugin that autocompletes filenames. * Prettier - Code formatter",
+  "main": "app.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tnguyenngocqa/understanding_typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tnguyenngocqa/understanding_typescript/issues"
+  },
+  "homepage": "https://github.com/tnguyenngocqa/understanding_typescript#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
